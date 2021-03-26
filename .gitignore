@@ -1,0 +1,7 @@
+.vscode
+*.~*xlsx
+vendor
+*LOCAL_*
+*DEV_*
+*TEST_*
+*TESTE_*
